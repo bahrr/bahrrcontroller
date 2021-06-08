@@ -1,5 +1,5 @@
 # About
-An NRF24 based controller system that currently supports 10 buttons and a joystick. You can use a Leonardo or other compatible device to connect to a computer using DirectInput (I may add support for XInput in the near future).
+An NRF24 based controller system that currently supports 10 buttons and a joystick. You can use a Leonardo or other compatible device to connect to a computer using DirectInput or XInput.
 # Libraries needed
 https://github.com/nRF24/RF24 for transmitter
 
